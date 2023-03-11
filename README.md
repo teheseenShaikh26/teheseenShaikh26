@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @teheseenShaikh26
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Python,Web Development
+- 👋 Hi, I’m @Teheseen Shaikh
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning DSA,Java and Web development
 - 📫 How to reach me: teheseen26@gmail.com
 
 <!---
