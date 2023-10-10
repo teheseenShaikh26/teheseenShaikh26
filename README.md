@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi👋, I'm Teheseen Shaikh</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A BTech Computer Graduate from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teheseenshaikh26&label=Profile%20views&color=0e75b6&style=flat" alt="teheseenshaikh26" /> </p>
 
